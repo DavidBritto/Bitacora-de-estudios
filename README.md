@@ -1,6 +1,6 @@
-# Bitácora de Aprendizaje y Roadmap Integrado (Q2 2025 en adelante)
+# Bitácora de Estudios
 
-Este es mi plan de estudio centralizado para mi transformación hacia un perfil de **Desarrollador con especialización en Data, IA y Backend**. El objetivo es integrar la formación estructurada con el autoestudio profundo, documentando el progreso de manera clara.
+Este es mi plan de estudio centralizado para mi transformación hacia un perfil de **Desarrollador Backend especializado en Python, IA y DevOps**. El objetivo es integrar la formación estructurada con el autoestudio profundo, documentando el progreso de manera clara.
 
 ---
 
@@ -11,7 +11,7 @@ Aquí registro el progreso de los cursos y desafíos estructurados que estoy rea
 * **[ ] Informatorio Chaco - Etapa 2: Desarrollo Web con Python**
     * **Foco:** Construir aplicaciones web full-stack.
     * **Temas Principales:**
-        * [ ] Python (Fundamentos y POO)
+        * [x] Python (Fundamentos y POO)
         * [ ] MySQL y Bases de Datos Relacionales
         * [ ] Django (Framework Backend)
         * [x] Git (Uso continuo y avanzado)
@@ -87,5 +87,6 @@ Esta es mi lista de temas clave del temario UTN que abordaré de forma autodidac
 
 ## 📂 Proyectos de Aplicación
 
-* **[Portfolio Personal (Landing Page)](./portfolio/)**: El escaparate principal de mis habilidades, en constante evolución.
-* **[Prácticas de Cursos](./ruta-a-tu-repo-de-practicas/)**: Repositorio con los ejercicios prácticos del Informatorio, Digitalers, etc.
+* **[Portfolio Personal (Landing Page)](apurate y subi esta pagina)**: El escaparate principal de mis habilidades, en constante evolución.
+  
+* **[Laboratorio de Prácticas](https://github.com/DavidBritto/Informatorio)**: Repositorio con ejercicios prácticos del Informatorio, Digitalers, etc.
